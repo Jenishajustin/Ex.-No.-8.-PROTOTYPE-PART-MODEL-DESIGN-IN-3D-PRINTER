@@ -46,7 +46,9 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/Jenishajustin/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119405070/31490acb-f167-48b6-bbda-2c636a033d79)
+![clock ultimaker cura1](https://github.com/Jenishajustin/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119405070/6bd35135-c651-4902-be46-ef64adc25e4f)
+![clock ultimaker cura2](https://github.com/Jenishajustin/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119405070/cea7e286-e217-4c95-b03a-5c7ba3a06683)
+
 
 ### Name: JENISHA.J
 ### Register Number: 212222230056
